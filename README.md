@@ -11,9 +11,13 @@ MongoDb
 
 ## Estrutura Básica
 1 - Server - Inicializa a aplicação Express e conecta ao MongoDB.
+
 2 - Routes - Define as rotas da aplicação.
+
 3 - Controllers - Manipula a lógica de negócios.
+
 4 - Models - Define os esquemas do MongoDB.
+
 
 ## Diagrama de Classes
 
